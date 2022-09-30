@@ -1,12 +1,12 @@
 # Hacktoberfest Finder
 
-[Hacktoberfest Finder](https://hacktoberfest-finder.netlify.app) is a project to help developers find projects to contribute to during Hacktoberfest. 
+[Hacktoberfest Finder](https://hacktoberfest-finder.netlify.app) is a project that helps developers find projects to contribute to during Hacktoberfest. 
 
-This project is **unofficial and isn't affiliated with DigitalOcean (or any of its partners).** It's maintained by [Duncan McClean](https://github.com/duncanmcclean), with lots of help from [contributors](./CONTRIBUTORS.md) over the years. 
+This project is **unofficial and isn't affiliated with DigitalOcean (or any of its partners).** It's maintained by [Duncan McClean](https://github.com/duncanmcclean), along with lots of help from global [contributors](./CONTRIBUTORS.md) over the years. 
 
 ## Setting up
 
-To get up and running locally, follow these steps:
+To get it up and running locally, follow these steps:
 
 1. Fork this repository
 2. Clone your fork to your computer.
@@ -29,3 +29,5 @@ Before contributing any pull requests to this pull request, please read the [`CO
 Please don't try and submit pull requests for every open issue - leave some for others!
 
 If you are a first time contributor, please add your name to the running list in [`CONTRIBUTORS.md`](./CONTRIBUTORS.md).
+
+> *May the source be with you*
