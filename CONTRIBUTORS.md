@@ -1,5 +1,9 @@
 # Contributors
 
+##2022
+
+- [Tanay Kumar](https://github.com/Tanaykmr)
+
 ## 2021
 
 - [Manoj Krishna](https://github.com/manojkrishnak)
